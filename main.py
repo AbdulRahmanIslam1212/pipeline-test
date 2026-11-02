@@ -1,2 +1,2 @@
-for _ in range(10):
-    print("Hello, World!")
+def add(x: int, y: int) -> int:
+    return x + y
